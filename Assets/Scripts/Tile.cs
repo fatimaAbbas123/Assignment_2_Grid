@@ -8,7 +8,7 @@ public class Tile : MonoBehaviour
     public int tileId;
     public bool isOccupied;
     public Sprite[] images;
-   public Tile rightNeighbour, leftNeighbour, bottomNeighbour, topNeighbour;
+    public Tile rightNeighbour, leftNeighbour, bottomNeighbour, topNeighbour;
     public GameObject horizontalTable,verticleTable;
     private void OnEnable()
     {
