@@ -242,7 +242,7 @@ GameObject:
   - component: {fileID: 341266656}
   - component: {fileID: 341266655}
   m_Layer: 0
-  m_Name: TileGenerator
+  m_Name: ' '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
